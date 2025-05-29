@@ -41,3 +41,38 @@ Covers relational and non-relational database systems, principles, and real-worl
   - [MapReduce](./databases/nosql/map-reduce.md)
   - [Graph Databases](./databases/nosql/graph-databases.md)
   - [Elasticsearch](./databases/nosql/elasticsearch.md)
+
+### 🌐 [Web Services](./web-services/README.md)
+Covers web services, APIs, protocols, and architectural patterns for distributed systems.
+
+- **Fundamentals**
+  - [What is a Web Service?](./web-services/what-is-web-service.md)
+  - [JSON](./web-services/json.md)
+  - [Client Server Architecture](./web-services/client-server-architecture.md)
+
+- **HTTP & Protocols**
+  - [HTTP Overview](./web-services/http-overview.md)
+  - [HTTP Request Methods](./web-services/http-request-methods.md)
+  - [HTTP Status Codes](./web-services/http-status-codes.md)
+  - [HTTP vs HTTPS](./web-services/http-vs-https.md)
+  - [HTTPv1 vs HTTPv2](./web-services/httpv1-vs-httpv2.md)
+
+- **Authentication & Security**
+  - [Auth & OAuth](./web-services/auth-oauth.md)
+  - [SSO (Single Sign-On)](./web-services/sso.md)
+  - [JSON Web Tokens (JWT)](./web-services/json-web-tokens.md)
+
+- **Architectural Patterns**
+  - [SOA (Service-Oriented Architecture)](./web-services/soa.md)
+  - [ROA (Resource-Oriented Architecture)](./web-services/roa.md)
+  - [REST](./web-services/rest.md)
+  - [Richardson Maturity Model](./web-services/richardson-maturity-model.md)
+
+- **API Standards & Documentation**
+  - [OpenAPI/Swagger](./web-services/openapi-swagger.md)
+  - [Hypermedia/HATEOAS](./web-services/hypermedia-hateoas.md)
+
+- **Technologies & Protocols**
+  - [SOAP](./web-services/soap.md)
+  - [gRPC](./web-services/grpc.md)
+  - [WebSockets](./web-services/websockets.md)
