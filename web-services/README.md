@@ -29,7 +29,7 @@ This section covers web services, APIs, protocols, and architectural patterns fo
 
 ### 📋 **API Standards & Documentation**
 - [OpenAPI/Swagger](./openapi-swagger.md) — API specification and documentation tools
-- [Hypermedia/HATEOAS](./hypermedia-hateoas.md) — Hypermedia as the Engine of Application State
+- [Hypermedia/HATEOAS](./hypermedia-hateoas) — Hypermedia as the Engine of Application State
 
 ### 🔧 **Technologies & Protocols**
 - [SOAP](./soap.md) — Simple Object Access Protocol
