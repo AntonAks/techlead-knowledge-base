@@ -70,7 +70,7 @@ Covers web services, APIs, protocols, and architectural patterns for distributed
 
 - **API Standards & Documentation**
   - [OpenAPI/Swagger](./web-services/openapi-swagger.md)
-  - [Hypermedia/HATEOAS](./web-services/hypermedia-hateoas)
+  - [Hypermedia/HATEOAS](./web-services/hypermedia-hateoas.md)
 
 - **Technologies & Protocols**
   - [SOAP](./web-services/soap.md)
