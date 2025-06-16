@@ -42,7 +42,30 @@ Covers relational and non-relational database systems, principles, and real-worl
   - [Graph Databases](./databases/nosql/graph-databases.md)
   - [Elasticsearch](./databases/nosql/elasticsearch.md)
 
-### 🌐 [Web Services](./web-services/README.md)
+### 🌐 [Networking](./networking/README.md)
+Covers fundamental networking concepts, protocols, and tools essential for understanding network communication and infrastructure.
+
+- **Network Fundamentals**
+  - [IPv4 Address Structure](./networking/ipv4-address-structure.md)
+  - [IPv4 vs IPv6](./networking/ipv4-vs-ipv6.md)
+  - [Network Address Translation (NAT)](./networking/network-address-translation.md)
+
+- **Network Commands and Tools**
+  - [Basic TCP/IP Commands](./networking/basic-tcpip-commands.md)
+  - [UNIX Network Commands](./networking/unix-network-commands.md)
+  - [Windows Network Commands](./networking/windows-network-commands.md)
+
+- **Network Security and Protocols**
+  - [Virtual Private Networks (VPNs)](./networking/vpns.md)
+  - [SSL, TLS and HTTPS](./networking/ssl-tls-https.md)
+  - [TCP vs UDP](./networking/tcp-vs-udp.md)
+
+- **Protocol Deep Dives**
+  - [TCP/IP Protocol Suite](./networking/tcpip-protocol-suite.md)
+  - [Network Routing](./networking/network-routing.md)
+  - [Network Troubleshooting](./networking/network-troubleshooting.md)
+
+### 🔗 [Web Services](./web-services/README.md)
 Covers web services, APIs, protocols, and architectural patterns for distributed systems.
 
 - **Fundamentals**
