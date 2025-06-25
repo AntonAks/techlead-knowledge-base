@@ -99,3 +99,54 @@ Covers web services, APIs, protocols, and architectural patterns for distributed
   - [SOAP](./web-services/soap.md)
   - [gRPC](./web-services/grpc.md)
   - [WebSockets](./web-services/websockets.md)
+
+### 🏗️ [System Design](./system-design/README.md)
+Comprehensive system design concepts, patterns, and best practices for building scalable distributed systems.
+
+- **Scalability Fundamentals**
+  - [Horizontal vs Vertical Scaling](./system-design/scalability-fundamentals/horizontal-vs-vertical-scaling.md)
+  - [Load Balancing Strategies](./system-design/scalability-fundamentals/load-balancing-strategies.md)
+  - [Caching Layers and Patterns](./system-design/scalability-fundamentals/caching-layers-and-patterns.md)
+  - [Database Scaling (Sharding, Replication)](./system-design/scalability-fundamentals/database-scaling.md)
+
+- **Reliability & Availability**
+  - [CAP Theorem and Consistency Models](./system-design/reliability-availability/cap-theorem-consistency-models.md)
+  - [Circuit Breakers and Fault Tolerance](./system-design/reliability-availability/circuit-breakers-fault-tolerance.md)
+  - [Graceful Degradation Patterns](./system-design/reliability-availability/graceful-degradation-patterns.md)
+  - [SLA/SLO/SLI Design](./system-design/reliability-availability/sla-slo-sli-design.md)
+
+- **Service Architecture**
+  - [Microservices vs Monolith Trade-offs](./system-design/service-architecture/microservices-vs-monolith.md)
+  - [Service Mesh and API Gateways](./system-design/service-architecture/service-mesh-api-gateways.md)
+  - [Event-Driven Architecture](./system-design/service-architecture/event-driven-architecture.md)
+  - [Message Queues and Event Streaming](./system-design/service-architecture/message-queues-event-streaming.md)
+
+- **Data Architecture**
+  - [Database Selection Criteria](./system-design/data-architecture/database-selection-criteria.md)
+  - [Polyglot Persistence](./system-design/data-architecture/polyglot-persistence.md)
+  - [Data Consistency Patterns](./system-design/data-architecture/data-consistency-patterns.md)
+  - [CQRS and Event Sourcing](./system-design/data-architecture/cqrs-event-sourcing.md)
+
+- **Performance & Monitoring**
+  - [Capacity Planning and Auto-scaling](./system-design/performance-monitoring/capacity-planning-auto-scaling.md)
+  - [Performance Monitoring and Observability](./system-design/performance-monitoring/performance-monitoring-observability.md)
+  - [Distributed Tracing](./system-design/performance-monitoring/distributed-tracing.md)
+  - [Metrics and Alerting](./system-design/performance-monitoring/metrics-and-alerting.md)
+
+- **Cloud Patterns**
+  - [Multi-region Architecture](./system-design/cloud-patterns/multi-region-architecture.md)
+  - [Disaster Recovery Strategies](./system-design/cloud-patterns/disaster-recovery-strategies.md)
+  - [Serverless Architecture Patterns](./system-design/cloud-patterns/serverless-architecture-patterns.md)
+  - [Container Orchestration Design](./system-design/cloud-patterns/container-orchestration-design.md)
+
+- **Security & Compliance**
+  - [Zero Trust Architecture](./system-design/security-compliance/zero-trust-architecture.md)
+  - [Identity and Access Management](./system-design/security-compliance/identity-access-management.md)
+  - [Data Protection and Privacy](./system-design/security-compliance/data-protection-privacy.md)
+  - [Compliance and Audit Patterns](./system-design/security-compliance/compliance-audit-patterns.md)
+
+- **Technical Leadership**
+  - [Architecture Decision Records (ADRs)](./system-design/technical-leadership/architecture-decision-records.md)
+  - [Technology Evaluation Frameworks](./system-design/technical-leadership/technology-evaluation-frameworks.md)
+  - [Technical Debt Management](./system-design/technical-leadership/technical-debt-management.md)
+  - [Migration Strategies and Planning](./system-design/technical-leadership/migration-strategies-planning.md)
